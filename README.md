@@ -5,3 +5,4 @@
 - 📫 How to reach me : https://www.instagram.com/boy_with_a_hoody/
 - ⚡ Fun fact: Hack the World With KeyBoards
 - 🥷 Python,javascript(basic),Networking
+- 👍 Please Consider Giving a Star for Favourite repos

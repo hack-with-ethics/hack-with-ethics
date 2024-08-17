@@ -44,6 +44,7 @@
     .first-child {
       stroke: #3670A0;
       stroke-width: 1px;
+      width:100px;
       animation: first 5s linear forwards;
       animation-iteration-count: infinite;
     }
@@ -51,6 +52,7 @@
     .last-child {
       stroke: #FED140;
       stroke-width: 1px;
+      width:100px;
       animation: second 5s linear forwards;
       animation-iteration-count: infinite;
     }

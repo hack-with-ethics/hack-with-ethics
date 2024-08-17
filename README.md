@@ -40,6 +40,8 @@
 
     #py-icon {
       fill: transparent;
+      width:100px;
+      height:100px;
     }
     .first-child {
       stroke: #3670A0;

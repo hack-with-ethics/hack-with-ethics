@@ -1,11 +1,12 @@
-![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667](https://github.com/user-attachments/assets/e321f0f0-35be-430f-8220-2c5a8a360fd2)- 👋 Hi, I’m Sanjai Sa
+![68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667](https://github.com/user-attachments/assets/e321f0f0-35be-430f-8220-2c5a8a360fd2)
+- 👋 Hi, I’m Sanjai Sa
 - 👀 I’m interested in Cyber Security,Malware Development,Bypassing Av Systems
 - 🌱 I’m currently learning WebBased Attacks
 - 💞️ I’m looking to collaborate on Malware Development And Protection Techniques
 - 📫 How to reach me : https://www.instagram.com/boy_with_a_hoody/
 - ⚡ Fun fact: Hack the World With KeyBoards
 - 🥷 Python,javascript(basic),Networking
-- ![Upl<svg viewBox="-30 -4 200 200" xmlns="http://www.w3.org/2000/svg" id="py-icon">
+- ![Upl<svg viewBox="-20 -2 200 200" xmlns="http://www.w3.org/2000/svg" id="py-icon">
   <style>
     @keyframes first {
       0% {
@@ -42,14 +43,14 @@
     }
     .first-child {
       stroke: #3670A0;
-      stroke-width: 7px;
+      stroke-width: 1px;
       animation: first 5s linear forwards;
       animation-iteration-count: infinite;
     }
     
     .last-child {
       stroke: #FED140;
-      stroke-width: 7px;
+      stroke-width: 1px;
       animation: second 5s linear forwards;
       animation-iteration-count: infinite;
     }

@@ -5,7 +5,7 @@
 - 📫 How to reach me : https://www.instagram.com/boy_with_a_hoody/
 - ⚡ Fun fact: Hack the World With KeyBoards
 - 🥷 Python,javascript(basic),Networking
-- ![Upl<svg viewBox="-30 -4 570 521" xmlns="http://www.w3.org/2000/svg" id="py-icon">
+- ![Upl<svg viewBox="-30 -4 200 200" xmlns="http://www.w3.org/2000/svg" id="py-icon">
   <style>
     @keyframes first {
       0% {

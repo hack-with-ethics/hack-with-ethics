@@ -5,5 +5,5 @@
 - 💞️ I’m looking to collaborate on Malware Development And Protection Techniques
 - 📫 How to reach me : https://www.instagram.com/boy_with_a_hoody/
 - ⚡ Moto : Hack Everything With a KeyBoard
-- 🥷 Python,cybersecurity,javascript,
+- 🥷 Python,cybersecurity,javascript,.net,React
 - 👍 Please Consider Giving a Star for Favourite repos
